@@ -152,4 +152,4 @@ Open the notebooks in order:
 
 ---
 
-*Mini Hackathon #1 — MENG 570 · WildEye · EfficientNet-B0 + Domain Augmentation*
+*Mini Hackathon #1 — · WildEye · EfficientNet-B0 + Domain Augmentation*
