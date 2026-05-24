@@ -62,10 +62,10 @@ Each augmentation directly encodes a real-world failure mode:
 
 | Condition | Baseline (severe) | Domain Aug (severe) | Gain |
 |---|---|---|---|
-| Night / IR | — | — | — |
-| Motion Blur | — | — | — |
-| Low Light | — | — | — |
-| Occlusion | — | — | — |
+| Night / IR | 61.6% | 76.3% | **+14.7%** |
+| Motion Blur | 68.0% | 79.5% | **+11.5%** |
+| Low Light | 14.1% | 41.6% | **+27.5%** |
+| Occlusion | 64.9% | 68.0% | **+3.1%** |
 | **Combined (worst-case)** | **24.9%** | **44.2%** | **+19.3%** |
 
 **Average accuracy at severe perturbation:**
